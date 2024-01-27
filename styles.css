@@ -287,10 +287,10 @@ a:hover{
         text-align: center;
     }
     .access p{
-        width: 600px;
+        width: 550px;
     }
     .tablet img{
-        width: 600px;
+        width: 550px;
     }
     .tools{
         display: flex;
@@ -304,7 +304,7 @@ a:hover{
         height: 650px;
     }
     .availability p{
-        width: 600px;
+        width: 550px;
         margin-bottom: 60px;
     }
     .availability{
