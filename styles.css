@@ -242,7 +242,7 @@ a:hover{
         text-align: center;
     }
     #header p{
-        width: 500px;
+        width: 90%;
         text-align: center;
     }
     .buttons{
@@ -253,7 +253,7 @@ a:hover{
         height: 130px;
     }
     .track p{
-        width: 500px
+        width: 90%
     }
     #header .text{
         display: flex;
@@ -264,7 +264,7 @@ a:hover{
         display: flex;
         flex-direction: column;
         align-items: center;
-        height: 950px;
+        height: auto;
     }
     .desktop{
         width: 300px;
@@ -275,7 +275,7 @@ a:hover{
         position: static;
         width: auto;
         text-align: center;
-        width: 450px;
+        width: 100%;
     }
     .features{
         margin-left: 0px;
@@ -287,10 +287,10 @@ a:hover{
         text-align: center;
     }
     .access p{
-        width: 500px;
+        width: 90%;
     }
     .tablet img{
-        width: 500px;
+        width: 90%;
     }
     .tools{
         display: flex;
@@ -306,7 +306,7 @@ a:hover{
         padding: 100px 0px 100px 0px;
     }
     .availability p{
-        width: 500px;
+        width: 90%;
         margin-bottom: 60px;
     }
     .availability{
@@ -323,7 +323,7 @@ a:hover{
         flex-direction: column;
         align-items: center;
         height: 200px;
-        width: 500px;
+        width: 90%;
     }
     .column1{
         height: 60px;
