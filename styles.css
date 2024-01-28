@@ -296,12 +296,14 @@ a:hover{
         display: flex;
         flex-direction: column;
         align-items: center;
+        padding: 0px;
     }
     .partners{
         display: flex;
         flex-direction: column;
         align-items: center;
         height: 650px;
+        padding: 100px 0px 100px 0px;
     }
     .availability p{
         width: 500px;
@@ -313,6 +315,7 @@ a:hover{
     footer{
         display: flex;
         flex-direction: column;
+        padding: 30px 0px 30px 0px;
 
     }
     .footer-links{
@@ -320,6 +323,7 @@ a:hover{
         flex-direction: column;
         align-items: center;
         height: 200px;
+        width: 508px;
     }
     .column1{
         height: 60px;
