@@ -241,10 +241,12 @@ a:hover{
 }
     #header h1{
         text-align: center;
+        padding: 5px;
     }
     #header p{
         width: 85%;
         text-align: center;
+        padding: 5px;
     }
     .buttons{
         display: flex;
