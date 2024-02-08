@@ -238,10 +238,11 @@ a:hover{
         align-items: center;
         justify-content: center;
         width: 100%;
+        padding: 20px;
 }
     #header h1{
         text-align: center;
-        width: 85%
+        width: 70%;
     
     }
     #header p{
