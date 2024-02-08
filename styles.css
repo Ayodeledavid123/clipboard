@@ -242,7 +242,8 @@ a:hover{
 }
     #header h1{
         text-align: center;
-        width: 70%;
+        padding: 25px; /* Adjust the padding as needed */
+        max-width: 85%;
     
     }
     #header p{
